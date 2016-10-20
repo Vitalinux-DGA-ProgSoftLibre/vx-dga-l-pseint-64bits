@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=PseInt Lógica de Lenguajes de Programación
+Name[es]=PseInt Lógica de Lenguajes de Programación
+Name[es_ES]=PseInt Lógica de Lenguajes de Programación
+Comment=Aprender Lógica de Lenguajes de Programación
+Exec=/usr/share/vitalinux/bin/pseint/wxPSeInt
+Icon=logo-pseint
+Categories=Education;
+Type=Application
+Terminal=false
